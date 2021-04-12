@@ -1,0 +1,110 @@
+
+.page{
+    position: relative;
+    width: 1500px;
+    height: 1700px;
+    background: #FFFFFF;
+    margin: auto;
+}
+.logo{
+    margin-left: 180px;
+    margin-top: 50px;
+}
+.life{
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 70px;
+    color: #262626;
+    margin-top: 384px;
+    margin-left: 180px;
+
+}
+.smalltext{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #262626;
+    margin-top: 15px;
+    margin-left: 180px;
+    
+}
+button{
+    width: 200px;
+    height: 55px;
+    background: #FF6033;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    margin-top: 28px;
+    margin-left: 180px;
+}   
+.header{
+    display: flex;
+    background-image: url(../img/BG.png);
+    width: 1500px;
+    height: 1000px;
+}
+.menuelements{
+    list-style-type: none;
+    margin-right: 36.13px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 27px;
+    color: #262626;
+}
+.menulist{
+    display: flex;
+}
+.menu{
+    
+    margin-left: 200px;
+    margin-top: 61px;
+    
+}
+.aboutus{
+    display: flex;
+    width: 1500px;
+    height: 700px;
+    background: radial-gradient(75.02% 160.36% at 50% 50%, rgba(0, 196, 196, 0.9) 0%, rgba(0, 183, 183, 0.9) 32.6%, rgba(0, 173, 173, 0.9) 68.02%, rgba(0, 156, 156, 0.9) 100%), #00C4C4;
+}
+.bigtextabout{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 90px;
+    line-height: 106px;
+    color: #FFFFFF;
+    margin-top: 165px;
+    margin-left: 43px;
+
+}
+.smalltextabout1{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-left: 43px;
+}
+.smalltextabout2{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-left: 43px;
+    margin-top: 14px;
+}
